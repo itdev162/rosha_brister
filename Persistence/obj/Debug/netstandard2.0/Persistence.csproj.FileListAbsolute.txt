@@ -1,0 +1,12 @@
+C:\itdev162\rosha_brister\Persistence\bin\Debug\netstandard2.0\Persistence.deps.json
+C:\itdev162\rosha_brister\Persistence\bin\Debug\netstandard2.0\Persistence.dll
+C:\itdev162\rosha_brister\Persistence\bin\Debug\netstandard2.0\Persistence.pdb
+C:\itdev162\rosha_brister\Persistence\bin\Debug\netstandard2.0\Domain.dll
+C:\itdev162\rosha_brister\Persistence\bin\Debug\netstandard2.0\Domain.pdb
+C:\itdev162\rosha_brister\Persistence\obj\Debug\netstandard2.0\Persistence.csprojAssemblyReference.cache
+C:\itdev162\rosha_brister\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\itdev162\rosha_brister\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfoInputs.cache
+C:\itdev162\rosha_brister\Persistence\obj\Debug\netstandard2.0\Persistence.AssemblyInfo.cs
+C:\itdev162\rosha_brister\Persistence\obj\Debug\netstandard2.0\Persistence.csproj.CopyComplete
+C:\itdev162\rosha_brister\Persistence\obj\Debug\netstandard2.0\Persistence.dll
+C:\itdev162\rosha_brister\Persistence\obj\Debug\netstandard2.0\Persistence.pdb
